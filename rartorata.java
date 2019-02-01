@@ -3,5 +3,6 @@ public class rartorata{
 		for(int i=0;i<100;i++){
 			System.out.print(""+Math.Random()+"\n");
 		}
+	System.out.println("Jordan was here :)");
 	}
 }
